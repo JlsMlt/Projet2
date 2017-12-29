@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - "Ep\xE9e"
+  - Bouclier
+  - Forgeron
+  - Druide
+  - Chef
+  - Canvas
+  - MainInventory
+  - CraftSystem
+  - EquipmentSystem
+  - Tooltip
+  - Hotbar
+  - DraggingItem
+  - Panel
+  - Timer
+  - Slots
+  - ResultSlot
+  - Slot
+  - Item
+  - ItemIcon
+  - Ennemy
+  - Marchand
+  - Radis
+  - Betterave
+  - "L\xE9gume"
+  - DruideBoutDuMonde
+  - Dieu
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
